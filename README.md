@@ -1,4 +1,4 @@
-# Time Conversion by Country
+# Time Conversion By Country
 This project is to convert the local time zone into the country zone time. 
 
 **Snapshot:**
